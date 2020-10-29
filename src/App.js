@@ -6,6 +6,7 @@ const App = ()=>{
     <div className="App">
       <ul>
         <li>Hello</li>
+        <li>What's up?</li>
         <li>My friend</li>
         </ul>
     </div>
